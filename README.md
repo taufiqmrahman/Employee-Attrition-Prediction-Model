@@ -43,3 +43,10 @@ The project utilizes an HR analytics dataset consisting of 1,677 employee record
 2. Open the notebook in Google Colab or a local Jupyter environment.
 3. Ensure the dataset is in the same working directory.
 4. Execute the notebook sequentially to reproduce the pre-processing, 5-fold training, and evaluation outputs.
+
+## Academic Context
+This model was developed as a Machine Learning project at **BRAC University**.
+* **Course:** CSE422 - Artifical Intelligence (Spring 2026, Section 11)
+* **Group Members:** 
+  * Taufiq Mustafizur Rahman (ID: 24301485)
+  * Mohammad Ahonaf Bin Ameen (ID: 24301078)
